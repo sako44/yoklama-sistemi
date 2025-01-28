@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "./",
+    "./face-attendance-system/Silent-Face-Anti-Spoofing-master"
+  ]
+}
